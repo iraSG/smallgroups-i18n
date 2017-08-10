@@ -26,3 +26,6 @@ This repository contains the text for the Smallgroups.church website. If you (or
 3. After completing your translations, preview your changes to ensure correctness.
 4. At the bottom of the screen you will see a 'Propose file change' form. Enter a short, one-line description of your updates in the first box, and (if necessary) an extended description in the second box.
 5. Click the 'Propose file change' button.
+6. On the next screen, you will see a comparison of your proposed file changes with the current version. 
+7. Click the 'Create pull request' button, then confirm the action by clicking the 'Create pull request' button again to notify the Smallgroups.church team of your request.
+8. That's it! You will receive an email regarding your request.
