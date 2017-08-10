@@ -28,4 +28,8 @@ This repository contains the text for the Smallgroups.church website. If you (or
 5. Click the 'Propose file change' button.
 6. On the next screen, you will see a comparison of your proposed file changes with the current version. 
 7. Click the 'Create pull request' button, then confirm the action by clicking the 'Create pull request' button again to notify the Smallgroups.church team of your request.
-8. That's it! You will receive an email regarding your request.
+8. You will need to sign the 1thrasher_CLA, establishing that you agree to the terms of contributing to this project.
+   - Click the 'CLA not signed yet' button.
+   - Click the 'Sign in with GitHub to agree' button.
+   - Click the 'Authorize cla-assistant' button.
+9. That's it! You will receive an email regarding your request.
